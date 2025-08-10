@@ -2,4 +2,4 @@ While in an advanced cryptography class a classmate proposed an encryption schem
 
 It should be noted however, that due to lack of time I was unable to fully investigate certain questions of interest which are noted at the end of the paper. In the future, I may investigate these questions. 
 
-I did not create or contribute to the creation of the original Talos Cipher and I make no claims as such. If the curious reader would like to know that classmate that did create the cipher, I would be more than happy to put them in contact as requested.
+I did not create or contribute to the creation of the original Talos Cipher and I make no claims as such. If the curious reader would like to speak with the person who did create the cipher, I would be more than happy to put them in contact as requested.
